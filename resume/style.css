@@ -1,0 +1,38 @@
+body {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 1 em;
+    color: #444
+}
+--name
+h1{
+    font-size: 3em; 
+    color: #338485e;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 400;
+}
+--undergrad part
+strong {
+    font-size: 1.5em;
+    color: #338485e;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+--section part
+h2 {
+    font-size: 1.5em;
+    background-color: #338485e;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 400;
+}
+--job title part
+h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+--job org part
+h4 {
+    font-size: 1.5em;
+    font-weight: 400;
+}
