@@ -19,15 +19,9 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 50px;
+    padding-bottom: 50px;
 }
 
-.top {
-    width: 60%;
-    min-width: 300px;
-    margin: 0 auto;
-    margin-bottom: 30px;
-}
 
 /* name */
 #name {
@@ -49,7 +43,7 @@ body {
     font-size: 1.5em;
     color: #33485e;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 600;
     text-align: center;
     margin: 20px 0 0 0;
 }
@@ -92,6 +86,10 @@ body {
     margin: 2px 0 0 0;
 }
 
+.description {
+   margin: 10px 0 0 0;
+}
+
 /* contact, education and skills list */
 li {
     font-size: 1em;
@@ -109,6 +107,9 @@ li {
     margin: 5px 0 0 0; 
 }
 
-.description {
-   margin: 10px 0;
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
 }
