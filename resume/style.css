@@ -1,38 +1,66 @@
+/* styles for my resume */
+
+/* font information */
 body {
     font-family: "Open Sans", Arial, sans-serif;
-    font-size: 1 em;
-    color: #444
+    font-size: 1em;
+    color: #444;
 }
---name
-h1{
+
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/opensans/v29/mem8YaGs126MiZpBA-UFVZ0e.ttf) format("truetype");
+}
+
+/* name */
+h1 {
     font-size: 3em; 
-    color: #338485e;
+    color: #33485e;
     text-transform: uppercase;
     text-align: center;
     font-weight: 400;
 }
---undergrad part
+
+/* undergrad title */
 strong {
     font-size: 1.5em;
-    color: #338485e;
+    color: #33485e;
     text-transform: uppercase;
     font-weight: 400;
 }
---section part
+
+/* section part */
 h2 {
     font-size: 1.5em;
-    background-color: #338485e;
+    background-color: #33485e;
     text-transform: uppercase;
     color: white;
     font-weight: 400;
 }
---job title part
+
+/* job title part */
 h3 {
     font-size: 1.5em;
     font-weight: 600;
 }
---job org part
+
+/* job org part */
 h4 {
     font-size: 1.5em;
     font-weight: 400;
+}
+
+/* job dates */
+h5 {
+    font-size: 1em;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* contact, education and skills list */
+li {
+    font-size: 1em;
 }
