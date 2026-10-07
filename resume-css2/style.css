@@ -19,7 +19,7 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 50 px;
+    padding: 50px;
 }
 
 .top {
@@ -51,7 +51,7 @@ body {
     text-transform: uppercase;
     font-weight: 400;
     text-align: center;
-    margin: 20px 0;
+    margin: 20px 0 0 0;
 }
 
 .menu {
@@ -79,7 +79,7 @@ body {
 }
 
 /* job org part */
-.organizations {
+.organization {
     font-size: 1.25em;
     font-weight: 400;
 }
