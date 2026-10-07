@@ -15,54 +15,92 @@ body {
     src: url(https://fonts.gstatic.com/s/opensans/v29/mem8YaGs126MiZpBA-UFVZ0e.ttf) format("truetype");
 }
 
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50 px;
+}
+
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
 /* name */
-h1 {
+#name {
     font-size: 3em; 
     color: #33485e;
     text-transform: uppercase;
     text-align: center;
     font-weight: 400;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
 }
 
 /* photo was turned into comment on html page */
 
 /* undergrad title */
-strong {
+#title {
     font-size: 1.5em;
     color: #33485e;
     text-transform: uppercase;
     font-weight: 400;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
 /* section titles */
-h2 {
+.sectionheader {
     font-size: 1.5em;
     background-color: #33485e;
     text-transform: uppercase;
     color: white;
     font-weight: 400;
+    margin: 20px 0 10px 0;
+    width: 70%;
+    min-width: 300px;
 }
 
 /* job title part */
-h3 {
+.jobtitle {
     font-size: 1.5em;
     font-weight: 600;
 }
 
 /* job org part */
-h4 {
-    font-size: 1.5em;
+.organizations {
+    font-size: 1.25em;
     font-weight: 400;
 }
 
 /* job dates */
-h5 {
+.date {
     font-size: 1em;
     font-weight: 400;
     font-style: italic;
+    margin: 2px 0 0 0;
 }
 
 /* contact, education and skills list */
 li {
     font-size: 1em;
+}
+
+#degrees {
+    margin: 5px 0 0 0; 
+}
+
+#do {
+    margin: 5px 0 0 0; 
 }
