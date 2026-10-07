@@ -97,10 +97,18 @@ li {
     font-size: 1em;
 }
 
+.menu li {
+    display: inline;
+}
+
 #degrees {
     margin: 5px 0 0 0; 
 }
 
 #do {
     margin: 5px 0 0 0; 
+}
+
+.description {
+   margin: 10px 0;
 }
