@@ -26,7 +26,6 @@ h1 {
 
 /* photo was turned into comment on html page */
 
-
 /* undergrad title */
 strong {
     font-size: 1.5em;
@@ -35,7 +34,7 @@ strong {
     font-weight: 400;
 }
 
-/* section part */
+/* section titles */
 h2 {
     font-size: 1.5em;
     background-color: #33485e;
