@@ -1,0 +1,20 @@
+.masthead {
+    background-color: #22354d;
+    color: #cfdfe1;
+    padding: 20px;
+    text-align: center;
+}
+
+.publication-name {
+    font-family: 'Georgia', serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
