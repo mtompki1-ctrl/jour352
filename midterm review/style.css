@@ -22,7 +22,14 @@
 
 h1 {
     font-family: 'Helvetica', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 0;
+    text-align: center;
+    letter-spacing: 1px;
 }
+
 
 #byline {
     font-family: 'Helvetica', sans-serif;
