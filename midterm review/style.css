@@ -51,15 +51,17 @@ p {
 }
 
 figure {
-    margin: 20px 0;
+    margin: 30px auto;
     text-align: center;
     max-width: 800px;
     padding: 0 20px;
 }
 
 figure img {
+    width: 100%;
     max-width: 100%;
     height: auto;
+    margin: 0 auto;
 }
 
 figcaption {
@@ -78,25 +80,25 @@ blockquote {
     font-weight: bold;
     font-style: italic;
     text-align: center;
-    margin: 20px 0;
-    padding-left: 20px 20px 20px 20px;
+    margin: 30px auto;
+    padding-left: 20px;
     border-left: 5px solid #22354d;
     background-color: #22354d;
     color:#eaeeda
 }
 
-.read more {
+.read-more {
     display: block;
     text-align: center;
     margin-top: 50px;
-    background-color:#eaeeda
+    background-color:#eaeeda;
     padding: 30px 20px;
     border-top: 3px solid #22354d;
     text-align: center;
     text-transform: uppercase;
 }
 
-.read more h2 {
+.read-more h2 {
     font-family: 'Helvetica', sans-serif;
     font-size: 22px;
     color: #22354d;
@@ -109,7 +111,7 @@ blockquote {
     margin-bottom: 20px;
 }
 
-.read more a {
+.read-more a {
     font-family: 'Helvetica', sans-serif;
     font-size: 18px;
     font-weight: bold;
