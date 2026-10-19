@@ -115,13 +115,24 @@ blockquote {
     display: inline-block;
 }
 
+.read-more ul {
+    list-style: none;
+    padding: 0; 
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.read-more li {
+    margin: 10px 0;
+}
+
 .read-more a {
     font-family: 'Helvetica', sans-serif;
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
     color: #eaeeda;
-    padding: 10px 20px;
+    padding: 10px 0;
     max-width: 800px;
     margin: 0 auto;
     border-bottom: 1px solid #c69c48;
