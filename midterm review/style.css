@@ -42,7 +42,7 @@ h1 {
 
 p {
     font-family: 'Georgia', serif;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 figure {
@@ -68,8 +68,8 @@ blockquote {
     font-weight: bold;
     margin: 20px 0;
     padding-left: 20px;
-    border-left: 5px solid #c69c48;
-    color: #173b32;
+    border-left: 5px solid #eaeeda;
+    background-color: #22354d;
 }
 
 .read more {
