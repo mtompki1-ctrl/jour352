@@ -24,10 +24,11 @@ h1 {
     font-family: 'Helvetica', sans-serif;
     font-size: 48px;
     font-weight: bold;
-    margin: 20px 0;
-    padding: 0;
+    max-width: 800px;
+    margin: 35px auto 20px auto;
+    padding: 0 20px;
     text-align: center;
-    letter-spacing: 1px;
+    letter-spacing: -1px;
     color:#22354d;
 }
 
@@ -55,7 +56,7 @@ figure img {
 }
 
 figcaption {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 14px;
     color: #666;
     margin-top: 10px;
