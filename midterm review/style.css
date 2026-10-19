@@ -44,7 +44,7 @@ p {
     font-family: 'Georgia', serif;
     font-size: 14px;
     line-height: 1.6;
-    color:black
+    color:black;
     max-width: 800px;
     margin: 0 auto 20px auto;
     padding: 0 20px;
@@ -81,7 +81,6 @@ blockquote {
     font-style: italic;
     text-align: center;
     margin: 30px auto;
-    padding-left: 20px;
     border-left: 5px solid #22354d;
     background-color: #22354d;
     color:#eaeeda
