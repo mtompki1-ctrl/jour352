@@ -13,24 +13,18 @@
 }
 
 h1 {
-    font-family: 'Arial', sans-serif;
-    font-size: 36px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    font-family: 'Helvetica', sans-serif;
 }
 
 #byline {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 14px;
-    color: #666;
-    margin-bottom: 20px;
+    font-style: italic;
 }
 
 p {
-    font-family: 'Arial', sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    margin-bottom: 20px;
+    font-family: 'Georgia', serif;
+    font-size: 13px;
 }
 
 figure {
@@ -51,12 +45,13 @@ figcaption {
 }
 
 blockquote {
-    font-family: 'Georgia', serif;
-    font-size: 18px;
-    font-style: italic;
+    font-family: 'Helvetica', serif;
+    font-size: 26px;
+    font-weight: bold;
     margin: 20px 0;
     padding-left: 20px;
-    border-left: 4px solid #22354d;
+    border-left: 5px solid #c69c48;
+    color: #173b32;
 }
 
 .read more {
