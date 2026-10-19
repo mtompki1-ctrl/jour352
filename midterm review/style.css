@@ -88,20 +88,37 @@ blockquote {
 .read more {
     display: block;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
+    background-color:#eaeeda
+    padding: 30px 20px;
+    border-top: 3px solid #22354d;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .read more h2 {
-    font-family: 'Arial', sans-serif;
-    font-size: 16px;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 22px;
     color: #22354d;
+    text-transform: uppercase;
     text-decoration: none;
     border: 1px solid #22354d;
     padding: 10px 20px;
     border-radius: 4px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
 }
 
 .read more a {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
     text-decoration: none;
     color: #22354d;
+    padding: 10px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    border-bottom: 1px solid #22354d;
+    padding-bottom: 10px;
+    
 }
