@@ -43,6 +43,11 @@ h1 {
 p {
     font-family: 'Georgia', serif;
     font-size: 14px;
+    line-height: 1.6;
+    color:black
+    max-width: 800px;
+    margin: 0 auto 20px auto;
+    padding: 0 20px;
 }
 
 figure {
