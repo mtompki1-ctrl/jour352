@@ -126,3 +126,9 @@ blockquote  {
     margin: 35px 10px;
     background-color: #f4f0e8;
 }
+
+#read-more  {
+    margin-top: 45px;
+    padding-top: 20px;
+    border-top: 3px solid #6a89a7;
+}
