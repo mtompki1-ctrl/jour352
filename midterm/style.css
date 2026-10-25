@@ -4,7 +4,7 @@ body {
     background-color: #f4f0e8;
     color: #222222;
     font-family: Helvetica, Arial, sans-serif 
-    font-size: 16px;
+    font-size:16px;
     line-height: 1.7;
 }
 
@@ -17,8 +17,6 @@ body {
     border-bottom: 2px solid #22354d;
     margin-bottom: 35px;
 }
-
-
 
 #page-wrapper {
     max-width: 800px;
@@ -54,8 +52,10 @@ body {
 
 h1 {
     font-family: Georgia, serif;
-    font-size: 35px: line-height: 1.2;
-    color: #243b2d margin-bottom: 15px;
+    font-size: 35px;
+    line-height: 1.2;
+    color: #243b2d; 
+    margin-bottom: 15px;
 }
 
 h2 {
