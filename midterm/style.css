@@ -1,3 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f0e8;
+    color: #222222;
+    font-family: Helvetica, Arial, sans-serif font-size: 16px;
+    line-height: 1.7;
+}
+
+.masthead {
+    background-color: #243b2d color: #f4f0e8;
+    text-align: center;
+    padding: 25px 15px;
+    border-top: 5px solid #b8955a;
+    border-bottom: 2px solid #22354d;
+    margin-bottom: 35px;
+}
+
+
+
 #page-wrapper {
     max-width: 800px;
     width: 90%;
