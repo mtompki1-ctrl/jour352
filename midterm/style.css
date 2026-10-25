@@ -3,12 +3,14 @@ body {
     padding: 0;
     background-color: #f4f0e8;
     color: #222222;
-    font-family: Helvetica, Arial, sans-serif font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif 
+    font-size: 16px;
     line-height: 1.7;
 }
 
 .masthead {
-    background-color: #243b2d color: #f4f0e8;
+    background-color: #243b2d 
+    color: #f4f0e8;
     text-align: center;
     padding: 25px 15px;
     border-top: 5px solid #b8955a;
@@ -48,7 +50,6 @@ body {
     margin: 35px auto;
     padding: 30px;
     background-color: #ffffff;
-    box-sizing: border-box;
 }
 
 h1 {
