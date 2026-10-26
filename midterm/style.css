@@ -103,8 +103,8 @@ figure img  {
 
 .main-photo img {
     display: block;
-    width: 30%;
-    max-width: 300px;
+    width: 100%;
+    max-width: 500px;
     height: auto;
     margin: 0 auto;
     object-fit: contain;
