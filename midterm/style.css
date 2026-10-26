@@ -91,9 +91,9 @@ figure  {
 
 figure img  {
     display: block;
-    width: 22%;
-    max-width: 220px;
-    max-height: 220px;
+    width: 30%;
+    max-width: 300px;
+    max-height: 250px;
     height: auto;
     margin: 0 auto;
 
@@ -101,8 +101,8 @@ figure img  {
 
 .main-photo img {
     display: block;
-    width: 29%;
-    max-width: 288px;
+    width: 30%;
+    max-width: 300px;
     height: auto;
     margin: 0 auto;
     object-fit: contain;
