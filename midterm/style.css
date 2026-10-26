@@ -78,28 +78,30 @@ h2 {
     color: #384959; 
     margin-bottom: 25px;
     text-align: center;
+}
 
 p   {
     margin-bottom: 20px;
 }
 
 figure  {
-    margin: 30px 0;
+    margin: 10px 0;
     text-align: center;
 }
 
 figure img  {
     display: block;
-    width: 18%;
-    max-width: 250px;
+    width: 15%;
+    max-width: 150px;
     height: auto;
     margin: 0 auto;
 
 }
 
 .main-photo img {
+    display: block;
     width: 20%;
-    max-width: 300px;
+    max-width: 200px;
     height: auto;
     margin: 0 auto;
     object-fit: contain;
