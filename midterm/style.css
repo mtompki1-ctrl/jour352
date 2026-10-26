@@ -93,6 +93,7 @@ figure img  {
     display: block;
     width: 15%;
     max-width: 150px;
+    max-height: 150px;
     height: auto;
     margin: 0 auto;
 
