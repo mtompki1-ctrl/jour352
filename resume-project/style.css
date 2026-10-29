@@ -43,15 +43,64 @@ p   {
 }
 
 .navbar {
-    background-color: #252630;
+    background-color: #eae9ed;
 }
 
 .navbar-brand   {
     font-size: 23px;
     font-weight: bold;
+    color: #bd1451;
 }
 
 .nav-link   {
     margin-left: 15px;
+}
+
+.section-heading    {
+    background-color: #5796a1;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 25px;
+    font-size: 32px;
+}
+
+.about-section  {
+    padding-top: 35px;
+    padding-bottom: 45px;
+}
+
+.photo-box  {
+    background-color: #bd1451;
+    padding: 30px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.photobox img   {
+    width: 195px;
+    height: 270px;
+    border-radius: 8px;
+}
+
+.content-box    {
+    background-color: #cbd7e8;
+    padding: 18px;
+    border-radius: 10px;
+    min-height: 250px;
+}
+
+.content-box p {
+    font-size: 14px;
+}
+
+.work-section   {
+    padding-bottom: 55px;
+}
+
+.work-heading   {
+    width: 35%;
+    margin: 0 auto 25px auto;
 }
 
