@@ -90,12 +90,6 @@ p   {
     display: inline-block;
 }
 
-.photobox img   {
-    width: 195px;
-    height: 270px;
-    border-radius: 8px;
-    display: block;
-}
 
 .content-box    {
     background-color: #cbd7e8;
