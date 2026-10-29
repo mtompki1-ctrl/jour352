@@ -1,22 +1,24 @@
+
+/* page design */
 body    {
     background-color: #eae9ed;
     color: #222222;
-    font-family:'Roboto', Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
     line-height: 1.6;
+    margin: 0;
 }
 
+/* topper */
 .masthead   {
     width: 100%;
     height: auto; 
     display: block;
 }
 
-h1, h2, h3, .navbar-brand,  {
-    font-family: 'Playfair Display', Georgia, serif;
-}
-
+/* headings */
 h1  {
+    font-family: Georgia, 'Times New Roman', Times, serif
     font-size: 75px;
     line-height: 1.1;
     color: #bd1550;
@@ -25,22 +27,25 @@ h1  {
 
 h2  {
     color: #bd1550;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
 }
 
 h3  {
     font-size: 23px;
     margin-bottom: 10px;
-}
+    font-family: Georgia, 'Times New Roman', Times, serif
 
-h4  {
-    font-size: 16px;
-    font-weight: bold;
-    color: #397984;
 }
+/* paragraphs */
+
 
 p   {
     margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
 }
+/* navigation */
 
 .navbar {
     background-color: #eae9ed;
@@ -54,7 +59,11 @@ p   {
 
 .nav-link   {
     margin-left: 15px;
+    color: #222222;
 }
+
+/* section headings */
+
 
 .section-heading    {
     background-color: #5796a1;
@@ -65,6 +74,9 @@ p   {
     margin-bottom: 25px;
     font-size: 32px;
 }
+
+/* navigation */
+
 
 .about-section  {
     padding-top: 35px;
@@ -95,6 +107,8 @@ p   {
     font-size: 14px;
 }
 
+/* my work */
+
 .work-section   {
     padding-bottom: 55px;
 }
@@ -102,5 +116,26 @@ p   {
 .work-heading   {
     width: 35%;
     margin: 0 auto 25px auto;
+}
+
+.work-box   {
+    background-color: #bd1451
+    height: 265px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* skills section */
+
+.bottom-section {
+    padding: 10px 20px 40px 20px;
+}
+
+.skills-box {
+    text-align: center;
+}
+
+.skills-box ul  {
+    font-size: 19px;
 }
 
