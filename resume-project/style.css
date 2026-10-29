@@ -1,12 +1,51 @@
 body    {
-    background-color: #e9e9ed;
-    color: #252b36;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eae9ed;
+    color: #222222;
+    font-family:'Roboto', Helvetica, sans-serif;
+    font-size: 16px;
     line-height: 1.6;
 }
 
-.navbar-brand,
-.nav-link   {
-    font-family: "Special Elite", cursive;
-
+h1, h2, h3, .navbar-brand,  {
+    font-family: 'Playfair Display', Georgia, serif;
 }
+
+h1  {
+    font-size: 75px;
+    line-height: 1.1;
+    color: #bd1550
+    margin-bottom: 20px;
+}
+
+h2  {
+    color: #bd1550;
+}
+
+h3  {
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+
+h4  {
+    font-size: 16px;
+    font-weight: bold;
+    color: #397984;
+}
+
+p   {
+    margin-bottom: 20px;
+}
+
+.navbar {
+    background-color: #252630;
+}
+
+.navbar-brand   {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.nav-link   {
+    margin-left: 15px;
+}
+
