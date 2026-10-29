@@ -5,7 +5,7 @@ body    {
     color: #222222;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.4;
     margin: 0;
 }
 
@@ -27,14 +27,14 @@ h1  {
 
 h2  {
     color: #bd1550;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
 h3  {
     font-size: 23px;
     margin-bottom: 10px;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 /* paragraphs */
@@ -94,6 +94,7 @@ p   {
     width: 195px;
     height: 270px;
     border-radius: 8px;
+    display: block;
 }
 
 .content-box    {
@@ -139,3 +140,16 @@ p   {
     font-size: 19px;
 }
 
+.social-box ul  {
+    font-size: 18px;
+    line-height: 2.2;
+}
+
+.social-box a   {
+    color: #222222;
+}
+
+footer  {
+    text-align: center;
+    padding: 15px;
+}
