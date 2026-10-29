@@ -18,7 +18,7 @@ body    {
 
 /* headings */
 h1  {
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 75px;
     line-height: 1.1;
     color: #bd1550;
@@ -119,7 +119,7 @@ p   {
 }
 
 .work-box   {
-    background-color: #bd1451
+    background-color: #bd1451;
     height: 265px;
     border-radius: 10px;
     margin-bottom: 20px;
