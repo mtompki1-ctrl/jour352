@@ -92,8 +92,8 @@ p   {
 }
 
 .photo-box  img {
-    width: 195px;
-    height: 270px;
+    width: 10px;
+    height: 10px;
     object-fit: cover;
     border-radius: 8px;
     display: block;
