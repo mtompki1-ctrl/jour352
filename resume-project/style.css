@@ -77,12 +77,12 @@ p   {
     padding: bottom 45px;
 }
 
-.education p {
+.education-section p {
     text-align: center;
     font-size: 12px;
 }
 
-.education h3 {
+.education-section h3 {
     text-align: center;
     font-size: 15px;
 }
