@@ -24,7 +24,7 @@ h1  {
 
 h2  {
     color: #bd1550;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Special Elite", Georgia, Times, serif;
 
 }
 
@@ -78,7 +78,7 @@ p   {
     padding: 30px;
     border-radius: 10px;
     display: inline-block;
-    magin: 0 auto;
+    margin: 0 auto;
 }
 
 .photo-box  img {
