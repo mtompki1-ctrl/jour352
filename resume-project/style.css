@@ -126,10 +126,11 @@ p   {
 
 .skills-box {
     text-align: left;
+    line-height: 2.2;
 }
 
 .skills-box ul  {
-    font-size: 19px;
+    font-size: 18px;
 }
 
 .social-box ul  {
