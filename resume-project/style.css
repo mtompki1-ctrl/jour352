@@ -134,11 +134,13 @@ p   {
 }
 
 .skills-box {
+    background-color: #cbd7e8;
     text-align: left;
     line-height: 2.2;
 }
 
 .skills-box ul  {
+    background-color: #cbd7e8;
     font-size: 18px;
 }
 
