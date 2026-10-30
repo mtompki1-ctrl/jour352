@@ -1,5 +1,4 @@
 
-/* page design */
 body    {
     background-color: #eae9ed;
     color: #222222;
@@ -9,14 +8,12 @@ body    {
     margin: 0;
 }
 
-/* topper */
 .masthead   {
     width: 100%;
     height: auto; 
     display: block;
 }
 
-/* headings */
 h1  {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 75px;
@@ -37,7 +34,6 @@ h3  {
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-/* paragraphs */
 
 
 p   {
@@ -45,7 +41,6 @@ p   {
     font-family: Georgia, 'Times New Roman', Times, serif
 
 }
-/* navigation */
 
 .navbar {
     background-color: #eae9ed;
@@ -62,8 +57,6 @@ p   {
     color: #222222;
 }
 
-/* section headings */
-
 
 .section-heading    {
     background-color: #5796a1;
@@ -74,9 +67,6 @@ p   {
     margin-bottom: 25px;
     font-size: 32px;
 }
-
-/* navigation */
-
 
 .about-section  {
     padding-top: 35px;
@@ -92,8 +82,8 @@ p   {
 }
 
 .photo-box  img {
-    width: 10px;
-    height: 10px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
     border-radius: 8px;
     display: block;
@@ -129,7 +119,6 @@ p   {
     margin-bottom: 20px;
 }
 
-/* skills section */
 
 .bottom-section {
     padding: 10px 20px 40px 20px;
