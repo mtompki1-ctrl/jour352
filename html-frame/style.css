@@ -84,12 +84,14 @@ figure {
 figure img {
     max-width: 100%;
     height: auto;
+    text-align: center;
 }
 
 figcaption {
     font-size: 0.9rem;
     color: #6c757d;
     margin-top: 0.5rem;
+    text-align: center;
 }
 
 footer {
