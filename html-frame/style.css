@@ -1,0 +1,97 @@
+
+body    {
+    font-family: Times New Roman, serif;
+    color: #000000;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    padding: 1rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #000000;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.hero {
+    background-color: #e9ecef;
+    padding: 2rem;
+    text-align: center;
+}
+
+.story {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.byline {
+    font-size: 1rem;
+    color: #6c757d;
+    margin-bottom: 1rem;
+}
+
+.intro {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.chapter h2 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.chapter h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.story p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-top: 0.5rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+footer p {
+    margin: 0;
+}
