@@ -60,11 +60,13 @@ body    {
 .chapter h2 {
     font-size: 20px;
     margin-bottom: 1rem;
+    font-weight: bold;
 }
 
 .chapter h3 {
-    font-size: 1rem;
+    font-size: 20px;
     margin-bottom: 0.5rem;
+    font-weight: bold;
 }
 
 .story p {
