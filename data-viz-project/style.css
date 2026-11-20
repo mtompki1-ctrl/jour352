@@ -1,15 +1,24 @@
-
-body    {
-    font-family: Times New Roman, serif;
-    color: #000000;
-    background-color: #ffffff;
+body {
     margin: 0;
     padding: 0;
+    background-color: #f4f0e8;
+    color: #222222;
+    font-family: Helvetica, Arial, sans-serif; 
+    font-size:16px;
+    line-height: 1.7;
 }
 
 .navbar {
     background-color: #f8f9fa;
     padding: 1rem;
+}
+
+#page-wrapper {
+    max-width: 850px;
+    width: 80%;
+    margin: 35px auto;
+    padding: 30px;
+    background-color:#ffffff;
 }
 
 .navbar-brand {
