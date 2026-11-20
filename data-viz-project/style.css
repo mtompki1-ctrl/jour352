@@ -1,10 +1,10 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #ffffffda;
+    background-color: #16283fda;
     color: #222222;
-    font-family: Helvetica, Arial, sans-serif; 
-    font-size:16px;
+    font-family: 'Times New Roman', Times, serif, Arial, sans-serif; 
+    font-size:12px;
     line-height: 1.7;
 }
 
@@ -14,9 +14,9 @@ body {
 }
 
 #page-wrapper {
-    max-width: 850px;
-    width: 80%;
-    margin: 35px auto;
+    max-width: 1000px;
+    width: 90%;
+    margin: 40px auto;
     padding: 30px;
     background-color:#ffffff;
 }
