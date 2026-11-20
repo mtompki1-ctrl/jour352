@@ -110,3 +110,9 @@ footer {
 footer p {
     margin: 0;
 }
+
+#related-items  {
+    margin-top: 45px;
+    padding-top: 20px;
+    border-top: 3px solid #6a89a7;
+}
